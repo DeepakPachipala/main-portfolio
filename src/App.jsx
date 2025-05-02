@@ -1,5 +1,5 @@
 import React, { Suspense, lazy } from "react";
-import "./app.css";
+import "./App.css";
 import ErrorBoundary from "./ErrorBoundary";
 import Header from "./Header";
 import Loader from "./Loader";
