@@ -128,7 +128,7 @@
   }
 
   .devdetails {
-    position: relative;
+    position: absolute;
     top: 38%;
     width: 90%;
     max-width: 1240px;
