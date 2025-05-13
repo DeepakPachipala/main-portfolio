@@ -111,7 +111,7 @@
 /* Tablet Screens */
 @media (max-width: 1024px) {
   .splineviewer-container {
-    flex-direction: column;
+    flex-direction: row;
     align-items: center;
     height: auto;
     padding: 30px 20px;
@@ -123,14 +123,18 @@
     height: 50vh;
   }
 
+   .laptop3d{
+    margin: 0;
+  }
+
   .devdetails {
     position: relative;
-    top: auto;
-    left: auto;
-    transform: none;
+    top: 38%;
     width: 90%;
+    max-width: 1240px;
     margin-top: 20px;
     padding: 25px;
+    background-color: #0b0f2b98;
   }
 
   .social-icons img {
@@ -151,11 +155,19 @@
     display: none !important;
   }
 
+   .laptop3d{
+    margin: 0;
+  }
+
+
   .devdetails {
-    margin: 20px 0;
+    margin: 80px 0 20px 0;
+    top: 20%;
     text-align: center;
     padding: 20px;
     width: 95%;
+    max-width: 678px;
+    background-color: #0b0f2b98;
   }
 
   .socials-container {
