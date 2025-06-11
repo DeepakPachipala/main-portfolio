@@ -161,7 +161,7 @@ const educationData = [
   {
     id: 1,
     title: "Electronics and Communication Engineering",
-    institution: "Sree Vidyanikethan Engineering College",
+    institution: "Sree Vidyanikethan Engineering College - Btech",
     course: `
         Earned a Bachelor's degree in Electronics and Communication Engineering with a strong personal focus on software development and IT technologies.
         
@@ -189,7 +189,7 @@ const educationData = [
             - Git, 
             - GitHub, 
              - VS Code`,
-    year: "2020",
+    year: "2019 - 2023",
   },
 ];
 
