@@ -145,8 +145,8 @@ const experienceData = [
       I was involved in both individual tasks and team-driven projects
       
       My responsibilities included:
-      - Developing responsive and user-friendly interfaces using modern front-end frameworks such as React.js (or Angular/Vue.js, if applicable).
-      - Building and maintaining RESTful APIs and backend services using Node.js/Express (or Java, Python, etc.).
+      - Developing responsive and user-friendly interfaces using modern front-end frameworks such as React.js .
+      - Building and maintaining RESTful APIs and backend services using Node.js/Express .
       - Writing clean, efficient, and maintainable code adhering to best practices and coding standards.
       - Implementing unit tests and participating in code reviews to ensure high-quality deliverables.
       - Utilizing version control systems like Git for collaborative development.
