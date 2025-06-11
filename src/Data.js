@@ -153,7 +153,6 @@ const experienceData = [
       - Debugging and troubleshooting issues to optimize application performance and reliability.
       - Participating in Agile ceremonies like sprint planning, daily stand-ups, and retrospectives.
       - Continuously learning and applying new technologies and tools to enhance development processes.`,
-,
     year: "Jun 2023 - Present",
   },
 ];
