@@ -73,7 +73,7 @@ const ExperienceAndEducation = () => {
         {data.map((item, index) => (
           <div
             key={item.id}
-            className={`timeline-item ${activeId === item.id ? 'active' : ''} ${index % 2 === 0 ? 'left' : 'right'}`}
+            className={`timeline-item ${activeId === item.id ? 'active' : ''} ${index % 2 !== 0 ? 'left' : 'right'}`}
             onMouseEnter={() => setActiveId(item.id)}
             onMouseLeave={() => setActiveId(null)}
           >
