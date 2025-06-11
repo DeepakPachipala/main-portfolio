@@ -135,12 +135,25 @@ const experienceData = [
     id: 1,
     title: "Associate Software Engineer",
     company: "Ensar Solutions INC",
-    description:[
-      "As an Associate Software Engineer at **Ensar solutions INC**",
-      " I was responsible for working on a variety of development tasks across both front-end and back-end systems.",
-      " My role required me to collaborate with senior engineers, product teams, and designers to build, test, and optimize software solutions that met business requirements and user needs.",
-      " I was involved in both individual tasks and team-driven projects",
-    ],
+    description:`
+      As an Associate Software Engineer at **Ensar solutions INC** 
+    
+      I was responsible for working on a variety of development tasks across both front-end and back-end systems.
+      
+      My role required me to collaborate with senior engineers, product teams, and designers to build, test, and optimize software solutions that met business requirements and user needs.
+      
+      I was involved in both individual tasks and team-driven projects
+      
+      My responsibilities included:
+      - Developing responsive and user-friendly interfaces using modern front-end frameworks such as React.js (or Angular/Vue.js, if applicable).
+      - Building and maintaining RESTful APIs and backend services using Node.js/Express (or Java, Python, etc.).
+      - Writing clean, efficient, and maintainable code adhering to best practices and coding standards.
+      - Implementing unit tests and participating in code reviews to ensure high-quality deliverables.
+      - Utilizing version control systems like Git for collaborative development.
+      - Debugging and troubleshooting issues to optimize application performance and reliability.
+      - Participating in Agile ceremonies like sprint planning, daily stand-ups, and retrospectives.
+      - Continuously learning and applying new technologies and tools to enhance development processes.`,
+,
     year: "Jun 2023 - Present",
   },
 ];
@@ -150,7 +163,33 @@ const educationData = [
     id: 1,
     title: "Electronics and Communication Engineering",
     institution: "Sree Vidyanikethan Engineering College",
-    course: "Btech.",
+    course: `
+        Earned a Bachelor's degree in Electronics and Communication Engineering with a strong personal focus on software development and IT technologies.
+        
+        In addition to core ECE subjects, I consistently explored programming, web development, and computer science through hands-on projects and self-learning.
+
+       Core Subjects Studied:
+            - Digital Electronics & Microprocessors
+            - Signals and Systems
+            - Analog & Digital Communication
+            - Control Systems
+            - Embedded Systems & VLSI
+            - Electromagnetic Fields & Antennas
+            - Computer Networks (ECE core + IT relevance)
+            - Basics of IoT and Wireless Communication 
+
+      IT & Software Focus:
+            - Languages: JavaScript
+            - Web Development: HTML, CSS, React, Node.js
+
+      Databases: 
+            - MySQL,
+            - MongoDB
+
+      Tools: 
+            - Git, 
+            - GitHub, 
+             - VS Code`,
     year: "2020",
   },
 ];
